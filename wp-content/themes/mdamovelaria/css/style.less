@@ -1,0 +1,512 @@
+
+
+/*--[ Variables ]--------------------------------------------------------------------------------*/
+
+@orange: #f36f21;
+@dark-orange: #c95d1a;
+@darker-orange: #a0490c;
+
+@black: #000;
+@white: #fff;
+
+@gray: #808080;
+@light-gray: #f2f2f2;
+@dark-gray: #333333;
+@darker-gray: #212121;
+
+.box {
+	background: @light-gray;
+	padding: 20px;
+	.rounded(10px);
+	.inner-shadow;
+}
+
+/*--[ Imports ]--------------------------------------------------------------------------------*/
+
+@import "reset.less";
+@import "elements.less";
+
+/*--[ Layout ]--------------------------------------------------------------------------------*/
+
+html {
+	font: 62.5% "Helvetica Neue", Helvetica, Arial, sans-serif; /* Reset to 10px equivilent */
+	text-align: center;
+	background: #11161C url(../images/grooved_paper.png);
+	height: 100%;
+}
+body {
+	text-align: left;
+	color: #444;
+	font-size: 14px; 
+	line-height: 20px; 
+	position: relative;
+	height: 100%;
+}
+#main {
+	overflow: hidden;
+	zoom: 1;
+	clear: both;
+}
+
+.full {
+	margin: 0 auto;
+	width: 980px;
+	overflow: hidden;
+}
+
+
+/*--[ Anchors ]--------------------------------------------------------------------------------*/
+
+a { color: @orange; text-decoration: none; font-weight: bold; }
+a:hover, a:focus { color: @dark-orange; text-decoration: none; }
+
+/*--[ Typography ]--------------------------------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6 { color: @orange; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#3777AF;}
+
+.rgba h1, .rgba #logo, .rgba h2, .rgba h3, .rgba h4, .rgba h5, .rgba h6 { text-shadow: 0 1px 0 rgba(255,255,255,0.95) }
+
+h1 { font-size:40px; line-height: 40px; margin: 0 0 0.375em 0; letter-spacing: -.025em; } 
+h2 { font-size:2em; line-height: 1.125em; margin: 0 0 0.375em 0; letter-spacing: -.05em; font-weight: bold; } 
+h3 { font-size:1.625em; line-height: 1.384em; letter-spacing: -.035em; margin: 0.9231em 0 0.462em 0; } 
+h4 { font-size:1.25em; line-height: 1.2em; margin-top:1.2em; }
+h5 { font-size:1.125em; line-height: 1.3333em; margin-top:1.3333em; }
+h6 { font-size:0.875em; line-height: 1.7143em; margin-top:1.7143em; text-transform: uppercase; }
+
+p, ol, dl, blockquote, hr, pre, table, fieldset, article, article footer, {
+	margin: 0 0 1.5em 0;
+	line-height: 1.5em;
+}
+
+article ul {
+	margin: 0 0 2em 2em;
+	list-style: disc outside;
+}
+article ol {
+	margin: 0 0 2em 2em;
+	list-style: decimal outside;
+}
+article blockquote {
+	margin: 0 0 1.25em 2.5em;
+	font-family: cambria, georgia, times, serif;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	background: #f6f6f6;
+	padding: 1.19em 1.25em 0;
+	font-style: italic;
+}
+
+small {font-size:0.6875em;}
+
+
+/*--[ Header ]--------------------------------------------------------------------------------*/
+
+header {
+	height: 140px;
+	border-bottom: 5px solid @dark-orange;
+	background: url(../images/patten-boxes.gif) center;
+	margin-bottom: 10px;
+		section {
+			height: 130px;
+			border-bottom: 5px solid @orange;
+			position: relative;
+			overflow: visible !important;
+			background: @white;
+			z-index: 100;
+			.drop-shadow(0, 1px, 3px, 0.2);
+			.gradient;
+		}
+	.bg-fold {
+		width: 980px;
+		height: 10px;
+		background: url(../images/bg-fold.png);
+		position: absolute;
+		bottom: -15px;
+	}
+}
+	
+#logo {
+	float: left;
+	margin: 36px 0 0 30px;
+}	
+
+.fone {
+	float: right;
+	padding-left: 60px;
+	width: 170px;
+	height: 50px;
+	margin: 10px 10px 0 10px;
+	font-size: 20px;
+	font-weight: bold;
+	color: @orange;
+	line-height: 50px;
+	background: @light-gray url(../images/fone.png) no-repeat 15px 10px;
+	.rounded(5px);
+	.inner-shadow(0, 1px, 2px, 0.2);
+}
+
+/*--[ Nav ]--------------------------------------------------------------------------------*/
+
+#main-nav {
+	float: right;
+	text-transform: uppercase;
+	text-align: center;
+	ul { 
+		width: 630px;
+		overflow: hidden; 
+		margin: 0;
+		a {
+			float:left;
+			width: 200px;
+			height: 70px;
+			margin-right: 10px;
+			font-size: 16px;
+			line-height: 70px;
+			font-weight:normal;
+			letter-spacing: 1px;
+			color: @gray;
+			&:hover { 
+				color: @orange; 
+				background: url(../images/bg-nav.png);
+				}
+		}
+		
+		.current-menu-item a, .current-page-ancestor a {
+				color: @orange; 
+				background: url(../images/bg-nav.png);
+		}
+	}
+}
+
+
+/*--[ Home ]--------------------------------------------------------------------------------*/
+
+.box-home {
+	h2 {
+		border: 1px solid @orange;
+		.rounded(10px);
+		padding: 20px;
+		font-size: 18px;
+		line-height: 25px;
+		color: @black;
+		font-weight: normal;
+		letter-spacing: normal;
+		margin: 45px 0;
+		background: rgba(255, 255, 255, 0.5);
+	}
+	a {
+	  background: url(../images/round_arrow_right_icon&48.png) 20px center no-repeat @orange;
+	  border-top: 1px solid darken(@orange, 10%);
+	  border-right: 1px solid darken(@orange, 20%);
+	  border-bottom: 1px solid darken(@orange, 20%);
+	  border-left: 1px solid darken(@orange, 50%);
+	  .rounded(5px);
+	  float: left;
+	  width: 178px;
+	  color: @white;
+	  font-size: 20px;
+	  line-height: 25px;
+	  text-transform: uppercase;
+	  padding: 15px 0 15px 80px;
+	  .inner-glow(0, 0, 10px, 0.5);
+	  text-shadow: 0px -1px 1px @darker-orange;
+	  @extrude: inset 0 1px 10px 1px rgba(255, 255, 255, 0.5), 0px 1px 0 @dark-orange, 0 6px 0px @darker-orange, 0 8px 4px 1px @gray;
+	  -webkit-box-shadow: @extrude;
+	  -moz-box-shadow: @extrude;
+	  -ms-box-shadow: @extrude;
+	  -o-box-shadow: @extrude;
+	  box-shadow: @extrude;
+	  &:hover{
+	  @extrude: inset 0 1px 20px 1px rgba(255, 255, 255, 0.8), 0px 1px 0 @dark-orange, 0 6px 0px @darker-orange, 0 8px 4px 1px @gray;
+	  -webkit-box-shadow: @extrude;
+	  -moz-box-shadow: @extrude;
+	  -ms-box-shadow: @extrude;
+	  -o-box-shadow: @extrude;
+	  box-shadow: @extrude;	  
+	  }
+	  &:active{
+	  @extrude: inset 0 1px 10px 1px rgba(255, 255, 255, 0.4), 0px 1px 0 @dark-orange, 0 2px 0px @darker-orange, 0 4px 4px 1px @gray;
+	  -webkit-box-shadow: @extrude;
+	  -moz-box-shadow: @extrude;
+	  -ms-box-shadow: @extrude;
+	  -o-box-shadow: @extrude;
+	  box-shadow: @extrude;	
+	  margin-top: 4px;  
+	  }
+	}
+}
+
+.images-home {
+	height: 420px;
+	float: left;
+	overflow: hidden;
+	.box;
+	padding: 0;
+	
+}
+
+/*--[ Sidebar ]--------------------------------------------------------------------------------*/
+
+#sidebar {
+	.box;
+	width: 260px;
+	min-height: 380px;
+	float: left;
+	margin: 0 20px;
+	position: relative;
+	background: url(../images/white-texture.png);
+	
+	.pagename { margin-bottom: 20px; }
+	
+	.options a {
+		width: 240px;
+		padding: 10px;
+		background: @light-gray;
+		.rounded(10px);
+		.inner-shadow;
+		display: block;
+		margin-bottom: 10px;
+		&:hover {
+			background: darken(@light-gray, 3%);
+			color: @orange;
+		}
+		&.current { 
+			background: @orange; 
+			color: @white;
+		}
+	}
+	
+	.current-menu-item a { 
+			background: @orange; 
+			color: @white;
+		}
+	.current-menu-item a:hover { 
+			background: @orange; 
+			color: @white;
+		}
+	
+}
+
+
+/*--[ Internal Pages ]--------------------------------------------------------------------------------*/
+
+.window {
+	float: left;
+	width: 600px;
+	margin-left: 20px;
+	
+	h3 { margin-bottom: 20px; }
+	
+	li { width: 420px; }
+}
+
+
+/*--[ Projetos ]--------------------------------------------------------------------------------*/
+
+.window-slideshow {
+	float: left;
+	
+	#slideshow-wrapper {
+		padding: 0;
+	}
+	
+	#fullsize {
+		.rounded(10px);
+	}
+	
+	.element.style {
+		border: none;
+	}
+}
+
+
+/*--[ Contato ]--------------------------------------------------------------------------------*/
+
+.wpcf7 {
+	input, textarea {
+		.box;
+		padding: 10px;
+		background: @light-gray;
+		border: none;
+		width: 300px;
+	}
+	
+	.wpcf7-submit {
+	  background: 20px center no-repeat @orange;
+	  border-top: 1px solid darken(@orange, 10%);
+	  border-right: 1px solid darken(@orange, 20%);
+	  border-bottom: 1px solid darken(@orange, 20%);
+	  border-left: 1px solid darken(@orange, 50%);
+	  .rounded(5px);
+	  float: left;
+	  width: 178px;
+	  color: @white;
+	  line-height: 25px;
+	  text-transform: uppercase;
+	  padding: 10px;
+	  .inner-glow(0, 0, 10px, 0.5);
+	  text-shadow: 0px -1px 1px @darker-orange;
+	  @extrude: inset 0 1px 10px 1px rgba(255, 255, 255, 0.5), 0px 1px 0 @dark-orange, 0 6px 0px @darker-orange, 0 8px 4px 1px @gray;
+	  -webkit-box-shadow: @extrude;
+	  -moz-box-shadow: @extrude;
+	  -ms-box-shadow: @extrude;
+	  -o-box-shadow: @extrude;
+	  box-shadow: @extrude;
+	  margin-bottom: 20px;
+	  &:hover{
+	  @extrude: inset 0 1px 20px 1px rgba(255, 255, 255, 0.8), 0px 1px 0 @dark-orange, 0 6px 0px @darker-orange, 0 8px 4px 1px @gray;
+	  -webkit-box-shadow: @extrude;
+	  -moz-box-shadow: @extrude;
+	  -ms-box-shadow: @extrude;
+	  -o-box-shadow: @extrude;
+	  box-shadow: @extrude;	  
+	  }
+	  &:active{
+	  @extrude: inset 0 1px 10px 1px rgba(255, 255, 255, 0.4), 0px 1px 0 @dark-orange, 0 2px 0px @darker-orange, 0 4px 4px 1px @gray;
+	  -webkit-box-shadow: @extrude;
+	  -moz-box-shadow: @extrude;
+	  -ms-box-shadow: @extrude;
+	  -o-box-shadow: @extrude;
+	  box-shadow: @extrude;	
+	  margin-top: 4px;
+	  }
+	}
+}
+
+
+/*--[ Footer ]--------------------------------------------------------------------------------*/
+
+footer {
+	color: @white;
+	background: @darker-gray url(../images/pattern-3.png);
+	margin-top: 20px;
+	margin-bottom: -500px;
+	border-top: 5px solid @dark-orange;
+	height: auto !important;
+	overflow: visible;
+	  section {
+			border-top: 5px solid @orange;
+			background: rgba(255, 255, 255, 0.05);
+			z-index: 100;
+			margin-bottom: 50px;
+			.drop-shadow;
+		}
+	  .wrapper {
+		  .full;
+		  height: 100%;
+		  background: rgba(255, 255, 255, 0.05) url(../images/bg-fold-footer.png) no-repeat top center;
+		  padding: 10px 0 100px;
+		  margin-top: -5px;
+	  }
+	h3 {
+		text-shadow: none !important;
+		margin: 0;
+	}
+	p {
+		margin: 0;
+		color: @gray;
+	}
+	.footer-box {
+		float: left;
+		width: 280px;
+		padding: 20px;
+		padding-right: 0px;
+		background: @darker-gray url(../images/pattern-3.png);
+		margin: 20px 0 20px 20px;
+		.rounded(10px);
+		.inner-shadow;
+	}
+	.info {
+		margin: 10px 20px;
+		float: right;
+		font-size: 10px;
+		color: @gray;
+		a {
+			color: inherit;
+			&:hover { color: @white; }
+		}
+	}
+}
+
+/*--[ Images ]--------------------------------------------------------------------------------*/
+
+.wp-post-image,
+img.alignright, 
+img.alignleft, 
+img.aligncenter {
+	padding: 4px;
+	background: #fff;
+	border: 1px solid #eee;
+	outline: 4px solid #f6f6f6;
+}
+a:hover .wp-post-image, a:focus .wp-post-image {
+	padding: 1px !important;
+	border: 3px solid #ffe084 !important;
+}
+.alignleft{
+	float: left;
+	clear: left;
+	margin: 0.38em 1.62em 0.38em 0;
+}
+.alignright {
+	float: right;
+	clear: right;
+	margin: 0.38em 0 0.38em 1.62em;
+}
+.aligncenter {
+	margin: 0 auto 1.62em;
+	display: block;
+}
+div.wp-caption {
+	text-align: center;
+	background: #11161a;
+	border: 1px solid #1a1f23;
+	outline: 4px solid #0d1015;
+	padding: 0 !important;
+	text-align: center !important;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+div.wp-caption img {
+	margin: 0;
+	padding: 5px 5px 0;
+	outline: 0;
+	border: 0;
+}
+p.wp-caption-text {
+	margin: 0 !important;
+	padding: 0 3px 3px !important;
+	font-weight: bold;
+	clear: both;
+	font-size: 0.92em;
+	color: #eee;
+}
+
+
+
+
+/*--[ PRINT STYLES ]--------------------------------------------------------------------------------*/
+@media print {
+  * { background: transparent !important; color: #444 !important; text-shadow: none; }
+
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+
+  a:after { content: " (" attr(href) ")"; } 
+
+  abbr:after { content: " (" attr(title) ")"; }
+  
+  .ir a:after { content: ""; }  /* Don't show links for images */
+  
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  
+  img { page-break-inside: avoid; }
+
+  @page { margin: 0.5cm; }
+
+  p, h2, h3 { orphans: 3; widows: 3; }
+
+  h2, h3{ page-break-after: avoid; }
+}

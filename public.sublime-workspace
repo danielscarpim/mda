@@ -1,0 +1,1115 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"search-form	 _header.scss"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"main",
+				"main-content	 _base.scss"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"li",
+				"light-gray	 _vars.scss"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"size",
+				"text-size	 _header.scss"
+			],
+			[
+				"bl",
+				"black	 _user-header.scss"
+			],
+			[
+				"i",
+				"innerHeight"
+			],
+			[
+				"a",
+				"accordion"
+			],
+			[
+				"co",
+				"course-data"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"course",
+				"course-data"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"wh",
+				"white	 _right-sidebar.scss"
+			],
+			[
+				"blue",
+				"dark-blue	 _left-sidebar.scss"
+			],
+			[
+				"on",
+				"onComplete"
+			],
+			[
+				"cu",
+				"currentTarget"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"white-",
+				"white-belt	 _courses-list.scss"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"gr",
+				"dark-gray	 _footer.scss"
+			],
+			[
+				"gray",
+				"light-gray	 _user-info.scss"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bu",
+				"buttons	 _control-panel.scss"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"B",
+				"Bronze"
+			],
+			[
+				"file",
+				"file-type	 _library.scss"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"dar",
+				"dark-blue	 _left-sidebar.scss"
+			],
+			[
+				"cou",
+				"courses-list	 _courses-list.scss"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"in",
+				"input	 element"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bann",
+				"bannerWidth"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"dele",
+				"deleteActivity"
+			],
+			[
+				"lig",
+				"light-gray	 _recent-activities.scss"
+			],
+			[
+				"pr",
+				"primary-color	 _left-sidebar.scss"
+			],
+			[
+				"ligh",
+				"light-gray	 _courses-list.scss"
+			],
+			[
+				"light",
+				"light-gray	 _left-sidebar.scss"
+			],
+			[
+				"insc",
+				"Inscrições"
+			],
+			[
+				"ion-",
+				"ion-plus	 _left-sidebar.scss"
+			],
+			[
+				"sli",
+				"slick"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pro",
+				"progressBar"
+			],
+			[
+				"cl",
+				"closest"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"sun",
+				"sub-nav-1"
+			],
+			[
+				"sub",
+				"subNavOpen"
+			],
+			[
+				"ha",
+				"has-children"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"p",
+				"primary-color	 _courses-list.scss"
+			],
+			[
+				"th",
+				"thead	 element"
+			],
+			[
+				"tabs",
+				"tabs-content	 app.css"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"mag",
+				"margin-left"
+			],
+			[
+				"left",
+				"left-sidebar	 _left-sidebar.scss"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"com",
+				"compass"
+			],
+			[
+				"activi",
+				"activity-type	 _recent-activities.scss"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"ri",
+				"right-sidebar	 _base.scss"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"footer",
+				"footer-container	 _base.scss"
+			],
+			[
+				"block",
+				"block-content	 app.css"
+			],
+			[
+				"full",
+				"full-width	 _base.scss"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"bui",
+				"buildHtml"
+			],
+			[
+				"ht",
+				"buildHtml"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ca",
+				"carouselInit"
+			],
+			[
+				"$lo",
+				"$location	AngularJS"
+			],
+			[
+				"$loca",
+				"$location	AngularJS(DI)"
+			],
+			[
+				"gl",
+				"glyphicon-user	 styles.scss"
+			],
+			[
+				"la",
+				"langSelect"
+			],
+			[
+				"inter",
+				"interFace"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"json",
+				"json_a"
+			],
+			[
+				"arr",
+				"array_push"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Locali",
+				"localidade"
+			],
+			[
+				"gra",
+				"gray-lighter	 styles.scss"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ad",
+				"admin_name"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"l",
+				"loggedInUser"
+			],
+			[
+				"$r",
+				"$rootScope	AngularJS"
+			],
+			[
+				"lo",
+				"loggedIn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/danielscarpim/Desktop/scotch-box-master/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 11343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/mdamovelaria/page-projetos.php",
+			"settings":
+			{
+				"buffer_size": 447,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danielscarpim/Desktop/scotch-box-master/public/wp-app.php",
+		"/Users/danielscarpim/Desktop/scotch-box-master/public/wp-config.php",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/layout/_header.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/Gruntfile.js",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/modules/_elearning.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/dashboard/office-register.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/layout/left-sidebar/elearning-sidebar.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/layout/_elearning-sidebar.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/elearning/index.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/package.json",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/admin/office-register.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/login.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/layout/_login.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/usuario_bloqueado.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/forget_password.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/style.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/tms_msx.sublime-project",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/courses-list/library.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/_base.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/layout/head.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/layout/_left-sidebar.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/js/scripts/charts-theme.js",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/layout/_control-panel.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/_vars.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/layout/_right-sidebar.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/modules/_library.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/_settings.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/modules/_banner.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/modules/_courses-list.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/layout/header/header-admin.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/layout/header/header-user.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/banner.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/layout/_user-header.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/scss/_sharepoint.scss",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/courses-list/courses-list.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/courses-list/course.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/courses-list/class.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/courses-list/class-enroll.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/courses-list/course-enroll.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/user-info.html",
+		"/Users/danielscarpim/Desktop/TMS MSX/tms_msx/pages/templates/modules/courses-list/levels/level.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/js/scripts/app.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/course-locked.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/levels/level.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/Gruntfile.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_banner.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/js/scripts.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/bower.json",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/course-blocked.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_user-header.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_vars.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/all-users.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/banner.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_settings.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_control-panel.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_right-sidebar.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/user-info.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/library.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/file.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/dashboard.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/levels-chart.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/dealer.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/area.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/general-chart-stacked.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/user.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/gauge.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/reports/area.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/trainning-list.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/style.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/training-list.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/pie-chart.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/reports/user.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widget.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_courses-list.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/js/scripts/charts-theme.js",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/reports/dealers.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_base.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/widgets/chart-dealer.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/regional.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/header/header-admin.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/header/header-user.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_library.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_header.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/allusers.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/library/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/library-list.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_user-info.scss",
+		"/Users/danielscarpim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/library/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/elearning.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/left-sidebar/left-sidebar.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/class-enroll.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/courses-list/course-enroll.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/recent-activities/recent-activities.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/modules/_recent-activities.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_sharepoint.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/dashboard/recent-course.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/modules/recent-activities/activity.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/head.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/sharepoint/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/edit.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/disp.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/cidade.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/lists/new.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_footer.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/dist/admin/dashboard.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/login.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_login.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/templates/layout/footer.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/_fonts.scss",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/scss/layout/_left-sidebar.scss",
+		"/Users/danielscarpim/Downloads/webfontkit-20150928-111150/stylesheet.css",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/pages/admin/index.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/dist/pages/master.html",
+		"/Users/danielscarpim/Desktop/TMS Suzuki/tms_suzuki/dist/index.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/master.html",
+		"/Users/danielscarpim/Downloads/custom.master",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/sharepoint/default.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/sharepoint/index.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/dist/sharepoint/index.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/sharepoint/default.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/templates/layout/header/user-dropdown.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/templates/layout/header/header-user.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/templates/layout/header/header-admin.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/templates/modules/recent-activities/activity.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/pages/templates/layout/head.html",
+		"/Users/danielscarpim/Desktop/TMS Hyundai/tms_hyundai/Gruntfile.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\vivaparaiso"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2px",
+			" class=\"has-children\"",
+			"modernizr",
+			"moderni",
+			"dark",
+			"medium",
+			"20",
+			"before",
+			"name",
+			"li",
+			"td",
+			"course-title",
+			"before",
+			"dark-blue",
+			"5",
+			"width",
+			"/Style%20Library",
+			"/style%20library",
+			"/Style%20Library",
+			"$red",
+			"/Style%20Library",
+			"jet",
+			"$light-blue",
+			"light-blue",
+			"oil",
+			"suzukiprobold-webfont",
+			"fonts",
+			"suzukiproheadline-webfont",
+			"suzukiprobold",
+			"modernh-bold",
+			"modernh-light",
+			"admin",
+			"div",
+			"08",
+			"20/11/2015",
+			"start",
+			"');\n",
+			"sub-nav",
+			"sub-nav-2",
+			"sub-nav",
+			"h2",
+			"warning-color",
+			"light-blue",
+			"ionicos",
+			"modernh-bold-webfont",
+			"light",
+			"HelveticaNeueCondensed/HelveticaNeueLTStd-Cn",
+			"light-gray",
+			"language",
+			"fonts",
+			"FrutigerLTStd-Bold",
+			"FrutigerLTStd-Roman",
+			"h1",
+			"title_delete",
+			"adminLogin",
+			"userLogin",
+			"user_starsid",
+			"user_username",
+			"listData",
+			"users",
+			"wscode",
+			"saveStatus",
+			"dlr_id",
+			"locationsids",
+			"dealerscodes",
+			"dealerssids",
+			"key",
+			"ng-class=\"{{key}}\"",
+			"user",
+			"name",
+			"Name",
+			"name",
+			"user",
+			"user_id",
+			"stars",
+			"tD",
+			"td",
+			"th",
+			"container",
+			"modalService",
+			"dealerList",
+			"dealer-list",
+			"dealer",
+			"dealer.",
+			"user",
+			"User",
+			"user",
+			"user.",
+			"user",
+			"saveStatus",
+			"this",
+			"currentObject[type]",
+			"Users",
+			"users",
+			"user",
+			"td",
+			"user",
+			"error_msg",
+			"someArray",
+			"'",
+			"sentData",
+			"data",
+			"return",
+			"row",
+			"index",
+			"editable",
+			"index",
+			"target",
+			"user",
+			"span",
+			"ranking",
+			"Messages",
+			"messages",
+			"Profile",
+			"profile",
+			"home",
+			"Home",
+			"href",
+			"userLogin",
+			"a",
+			"carousel-example-generic",
+			"userLogin",
+			"postCtrl",
+			"struct",
+			"login",
+			"userLogin",
+			"exampleInputPassword1",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dark-blue",
+			"dark-orange",
+			"light-blue",
+			"dark-blue",
+			"dark-orange",
+			"light-blue",
+			"light-gray",
+			"dark-blue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-config.php",
+					"settings":
+					{
+						"buffer_size": 3272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2691,
+								2691
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/danielscarpim/Desktop/scotch-box-master/wp-config.php",
+					"settings":
+					{
+						"buffer_size": 11343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/mdamovelaria/page-projetos.php",
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 50.0
+	},
+	"output.sftp":
+	{
+		"height": 125.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"skin/frontend/regisbike/default/scss/layout/_header.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
